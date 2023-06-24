@@ -1,4 +1,4 @@
-# Dall-e-AI-Image-Generator
+# AI Vision
 
-AI Image Generation App MidJourney & DALL E Clone
-OpenAI's DALL-E model: A deep learning model that generates images from text input
+AI Image Generation App 
+AI Vision is a deep learning model excelled at capturing the essence of the textual descriptions, producing images that closely aligned with the provided information. 
